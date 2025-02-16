@@ -74,4 +74,5 @@ git clone https://github.com/kubespray/kubespray.git
 ```
 
 Agora o ambiente está preparado para iniciar a instalação do Kubernetes. Certifique-se de que todas as etapas foram concluídas antes de prosseguir para a configuração do cluster.
+Se tudo estiver ok, siga para o próximo passo em [setup dos ansible](ansible_setup.md)
 
