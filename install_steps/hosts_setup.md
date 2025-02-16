@@ -1,6 +1,7 @@
 # Configuração do Ambiente para Kubernetes
 
 ## 1️⃣ Instalar os Pacotes Necessários
+### Esse passo deve ser executado para todos os hosts
 
 Execute os comandos abaixo para instalar os pacotes essenciais no **Oracle Linux 9**:
 
