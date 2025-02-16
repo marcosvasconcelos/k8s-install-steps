@@ -33,5 +33,5 @@ git clone https://github.com/kubespray/kubespray.git
 Após isso, siga os passos documentados neste diretório para concluir a preparação do ambiente.
 
 ## 🔗 Próximos Passos
-Após configurar o ambiente, siga para a execução dos scripts de instalação do Kubernetes. Certifique-se de que todas as etapas de preparação foram concluídas antes de iniciar a implantação do cluster.
+Após ler esse documento, siga para o [setup dos hosts](hosts_setup.md)
 
